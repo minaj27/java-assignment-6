@@ -1,0 +1,14 @@
+button{
+    border: 5px inset brown;
+    background-color: bisque;
+}
+h1{
+    color: red;
+}
+button:hover{
+    background-color: red;
+    color: wheat;
+}
+body{
+    background-color: beige;
+}
